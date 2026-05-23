@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dulinmax.io/static/css/main.29b5bcbf.css",
-    "main.js": "/dulinmax.io/static/js/main.11ad7ded.js",
+    "main.css": "/dulinmax.io/static/css/main.b5ec39b0.css",
+    "main.js": "/dulinmax.io/static/js/main.f538ffab.js",
     "static/js/ort-wasm-simd-threaded.jsep.wasm": "/dulinmax.io/static/js/ort-wasm-simd-threaded.jsep.wasm",
     "static/media/ort-wasm-simd-threaded.jsep.wasm": "/dulinmax.io/static/media/ort-wasm-simd-threaded.jsep.7159377c07b0033df76a.wasm",
     "static/js/ort-wasm-simd-threaded.asyncify.wasm": "/dulinmax.io/static/js/ort-wasm-simd-threaded.asyncify.wasm",
@@ -12,11 +12,11 @@
     "mask-yolov8-seg.onnx": "/dulinmax.io/mask-yolov8-seg.onnx",
     "nms-yolov8.onnx": "/dulinmax.io/nms-yolov8.onnx",
     "index.html": "/dulinmax.io/index.html",
-    "main.29b5bcbf.css.map": "/dulinmax.io/static/css/main.29b5bcbf.css.map",
-    "main.11ad7ded.js.map": "/dulinmax.io/static/js/main.11ad7ded.js.map"
+    "main.b5ec39b0.css.map": "/dulinmax.io/static/css/main.b5ec39b0.css.map",
+    "main.f538ffab.js.map": "/dulinmax.io/static/js/main.f538ffab.js.map"
   },
   "entrypoints": [
-    "static/css/main.29b5bcbf.css",
-    "static/js/main.11ad7ded.js"
+    "static/css/main.b5ec39b0.css",
+    "static/js/main.f538ffab.js"
   ]
 }
