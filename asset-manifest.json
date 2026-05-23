@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.10e7f4da.css",
-    "main.js": "/static/js/main.d3cc5511.js",
-    "static/js/ort-wasm-simd-threaded.jsep.wasm": "/static/js/ort-wasm-simd-threaded.jsep.wasm",
-    "static/media/ort-wasm-simd-threaded.jsep.wasm": "/static/media/ort-wasm-simd-threaded.jsep.7159377c07b0033df76a.wasm",
-    "static/js/ort-wasm-simd-threaded.asyncify.wasm": "/static/js/ort-wasm-simd-threaded.asyncify.wasm",
-    "static/js/ort-wasm-simd-threaded.jspi.wasm": "/static/js/ort-wasm-simd-threaded.jspi.wasm",
-    "best_model_1_model_v3_epochs25_batch8_lr001.onnx": "/best_model_1_model_v3_epochs25_batch8_lr001.onnx",
-    "static/js/ort-wasm-simd-threaded.wasm": "/static/js/ort-wasm-simd-threaded.wasm",
-    "static/media/ort.bundle.min.mjs": "/static/media/ort.bundle.min.7fa06602f39fbecc15ab.mjs",
-    "mask-yolov8-seg.onnx": "/mask-yolov8-seg.onnx",
-    "nms-yolov8.onnx": "/nms-yolov8.onnx",
-    "index.html": "/index.html",
-    "main.10e7f4da.css.map": "/static/css/main.10e7f4da.css.map",
-    "main.d3cc5511.js.map": "/static/js/main.d3cc5511.js.map"
+    "main.css": "/dulinmax.io/static/css/main.10e7f4da.css",
+    "main.js": "/dulinmax.io/static/js/main.641651b8.js",
+    "static/js/ort-wasm-simd-threaded.jsep.wasm": "/dulinmax.io/static/js/ort-wasm-simd-threaded.jsep.wasm",
+    "static/media/ort-wasm-simd-threaded.jsep.wasm": "/dulinmax.io/static/media/ort-wasm-simd-threaded.jsep.7159377c07b0033df76a.wasm",
+    "static/js/ort-wasm-simd-threaded.asyncify.wasm": "/dulinmax.io/static/js/ort-wasm-simd-threaded.asyncify.wasm",
+    "static/js/ort-wasm-simd-threaded.jspi.wasm": "/dulinmax.io/static/js/ort-wasm-simd-threaded.jspi.wasm",
+    "best_model_1_model_v3_epochs25_batch8_lr001.onnx": "/dulinmax.io/best_model_1_model_v3_epochs25_batch8_lr001.onnx",
+    "static/js/ort-wasm-simd-threaded.wasm": "/dulinmax.io/static/js/ort-wasm-simd-threaded.wasm",
+    "static/media/ort.bundle.min.mjs": "/dulinmax.io/static/media/ort.bundle.min.7fa06602f39fbecc15ab.mjs",
+    "mask-yolov8-seg.onnx": "/dulinmax.io/mask-yolov8-seg.onnx",
+    "nms-yolov8.onnx": "/dulinmax.io/nms-yolov8.onnx",
+    "index.html": "/dulinmax.io/index.html",
+    "main.10e7f4da.css.map": "/dulinmax.io/static/css/main.10e7f4da.css.map",
+    "main.641651b8.js.map": "/dulinmax.io/static/js/main.641651b8.js.map"
   },
   "entrypoints": [
     "static/css/main.10e7f4da.css",
-    "static/js/main.d3cc5511.js"
+    "static/js/main.641651b8.js"
   ]
 }
